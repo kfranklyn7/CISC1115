@@ -1,0 +1,35 @@
+
+Die 1 is 3 and die 2 is  2
+Your combination is valid
+You have won
+
+Die 1 is 5 and die 2 is  5
+The computer has drawed
+
+Die 1 is 3 and die 2 is  1
+Your combination is valid
+You have lost
+
+Die 1 is 5 and die 2 is  4
+The computer has drawed
+
+Die 1 is 3 and die 2 is  4
+Your combination is valid
+You have won
+
+Die 1 is 5 and die 2 is  1
+The computer has drawed
+
+Die 1 is 3 and die 2 is  6
+Your combination is valid
+You have drawed
+
+Die 1 is 5 and die 2 is  3
+The computer has drawed
+
+Die 1 is 5 and die 2 is  1
+Your combination is valid
+You have drawed
+
+Die 1 is 1 and die 2 is  4
+The computer has won
