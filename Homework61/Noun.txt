@@ -1,0 +1,7 @@
+boy
+girl
+dog
+town
+car
+toy
+chair
