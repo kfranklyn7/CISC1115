@@ -1,0 +1,40 @@
+		Invitation List
+Name 				Seat Number
+Mr. James Kirk   			1
+Mr. Geordi LaForge   			2
+Mr. Christopher Pike   			3
+Mr. Jean-Luc Picard   			4
+Ms. Christine Chapel   			5
+Mrs. Janice Rand   			6
+Miss Diana Troi   			7
+Miss Nyota Uhura   			8
+Mrs. Jadzia Dax   			9
+Ms. Tasha Yar   			10
+Mr. William Riker   			11
+Mr. Lt. Whorf   			12
+Mr. Leonard McCoy   			13
+Miss Kathryn Janeway   			14
+Ms. Erica Kane   			15
+
+		Male Guests
+Mr. James Kirk   			1
+Mr. Geordi LaForge   			2
+Mr. Christopher Pike   			3
+Mr. Jean-Luc Picard   			4
+Mr. William Riker   			11
+Mr. Lt. Whorf   			12
+Mr. Leonard McCoy   			13
+
+		Female Guests
+Ms. Christine Chapel   			5
+Mrs. Janice Rand   			6
+Miss Diana Troi   			7
+Miss Nyota Uhura   			8
+Mrs. Jadzia Dax   			9
+Ms. Tasha Yar   			10
+Miss Kathryn Janeway   			14
+Ms. Erica Kane   			15
+
+Total Number of Guests:			15
+Total Number of Female Guests:		8
+Total Number of Male Guests:		7
