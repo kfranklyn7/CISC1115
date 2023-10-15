@@ -1,0 +1,170 @@
+
+Number 	 Amount 	 Old Price		Discount 	New Price
+
+1111	   25		 $  58.00		  5%		$  55.10
+2222	   14		 $  25.34		  5%		$  24.07
+3333	   30		 $ 138.30		  5%		$ 131.39
+
+
+
+
+The final balance is $230.56
+$20 Service Charge
+
+
+
+
+
+
+Number 	 Amount 	 Old Price		Discount 	New Price
+
+4444	   35		 $ 301.35		 10%		$ 271.22
+5555	   78		 $ 828.36		 40%		$ 497.02 
+
+
+
+
+The final balance is $768.23
+
+
+
+
+
+Number 	 Amount 	 Old Price		Discount 	New Price
+
+6666	    5		 $ 263.05		  5%		$ 249.90
+7777	    8		 $  39.28		  5%		$  37.32
+8888	   10		 $   2.40		  5%		$   2.28
+
+
+
+
+The final balance is $309.49
+$20 Service Charge
+
+
+
+
+
+
+Number 	 Amount 	 Old Price		Discount 	New Price
+
+9999	   52		 $  68.64		 25%		$  51.48
+1000	  121		 $  82.28		 40%		$  49.37 
+2000	   24		 $  64.56		  5%		$  61.33
+
+
+
+
+The final balance is $182.18
+$20 Service Charge
+
+
+
+
+
+
+Number 	 Amount 	 Old Price		Discount 	New Price
+
+3000	    2		 $ 305.36		  5%		$ 290.09
+4000	   40		 $1184.00		 10%		$1065.60
+5000	    1		 $   1.40		  5%		$   1.33
+
+
+
+
+The final balance is $1289.17
+5% Discount
+
+
+
+
+
+
+
+
+
+Number 	 Amount 	 Old Price		Discount 	New Price
+
+6000	   14		 $1400.00		  5%		$1330.00
+7000	   38		 $  19.76		 10%		$  17.78
+8000	   70		 $  71.40		 25%		$  53.55
+9000	    2		 $ 180.90		  5%		$ 171.86
+
+
+
+
+The final balance is $1573.19
+
+
+
+
+
+Number 	 Amount 	 Old Price		Discount 	New Price
+
+3222	   13		 $ 422.89		  5%		$ 401.75
+4222	   32		 $1608.00		 10%		$1447.20
+5222	   20		 $  90.00		  5%		$  85.50
+
+
+
+
+The final balance is $1934.45
+
+
+
+
+
+Number 	 Amount 	 Old Price		Discount 	New Price
+
+4333	   74		 $ 203.50		 25%		$ 152.63
+5333	   40		 $ 128.00		 10%		$ 115.20
+6333	   95		 $ 522.50		 40%		$ 313.50 
+7333	   20		 $ 110.00		  5%		$ 104.50
+
+
+
+
+The final balance is $685.83
+
+
+
+
+
+Number 	 Amount 	 Old Price		Discount 	New Price
+
+2444	   10		 $4150.00		  5%		$3942.50
+3444	    5		 $1500.00		  5%		$1425.00
+
+
+
+
+The final balance is $5099.13
+5% Discount
+
+
+
+
+
+
+
+
+
+Number 	 Amount 	 Old Price		Discount 	New Price
+
+5111	    5		 $ 110.00		  5%		$ 104.50
+6111	    5		 $ 262.50		  5%		$ 249.38
+7111	    5		 $ 226.00		  5%		$ 214.70
+8111	    5		 $ 102.50		  5%		$  97.38
+9111	    5		 $  76.25		  5%		$  72.44
+
+
+
+
+The final balance is $701.47
+5% Discount
+
+
+
+
+
