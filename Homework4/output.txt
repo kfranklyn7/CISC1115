@@ -1,0 +1,155 @@
+		        THE BROOKLYN COLLEGE CARPET STORE
+			    Kevon Franklyn,Owner
+
+				MEASUREMENT
+
+			  Length	 23 feet
+			  Width 	 13 feet
+			  Area  	299 square feet
+
+				  CHARGES
+
+		Description	COST/SQ.FT.		 CHARGE/ROOM
+		Carpet		   14.20		   $ 4245.80
+		Labor		    0.35		      104.65
+							    --------
+		INSTALLED PRICE				   $ 4350.45
+		Discount            12.0%		      522.05
+							    --------
+
+		SUBTOTAL				   $ 3828.40
+		Tax 					      325.41
+		TOTAL					   $ 4153.81
+
+
+
+
+
+
+
+
+
+		        THE BROOKLYN COLLEGE CARPET STORE
+			    Kevon Franklyn,Owner
+
+				MEASUREMENT
+
+			  Length	 35 feet
+			  Width 	  8 feet
+			  Area  	280 square feet
+
+				  CHARGES
+
+		Description	COST/SQ.FT.		 CHARGE/ROOM
+		Carpet		    8.00		   $ 2240.00
+		Labor		    0.35		       98.00
+							    --------
+		INSTALLED PRICE				   $ 2338.00
+		Discount             0.0%		        0.00
+							    --------
+
+		SUBTOTAL				   $ 2338.00
+		Tax 					      198.73
+		TOTAL					   $ 2536.73
+
+
+
+
+
+
+
+
+
+		        THE BROOKLYN COLLEGE CARPET STORE
+			    Kevon Franklyn,Owner
+
+				MEASUREMENT
+
+			  Length	 14 feet
+			  Width 	 11 feet
+			  Area  	154 square feet
+
+				  CHARGES
+
+		Description	COST/SQ.FT.		 CHARGE/ROOM
+		Carpet		   22.25		   $ 3426.50
+		Labor		    0.35		       53.90
+							    --------
+		INSTALLED PRICE				   $ 3480.40
+		Discount            10.0%		      348.04
+							    --------
+
+		SUBTOTAL				   $ 3132.36
+		Tax 					      266.25
+		TOTAL					   $ 3398.61
+
+
+
+
+
+
+
+
+
+		        THE BROOKLYN COLLEGE CARPET STORE
+			    Kevon Franklyn,Owner
+
+				MEASUREMENT
+
+			  Length	 15 feet
+			  Width 	 16 feet
+			  Area  	240 square feet
+
+				  CHARGES
+
+		Description	COST/SQ.FT.		 CHARGE/ROOM
+		Carpet		    5.60		   $ 1344.00
+		Labor		    0.35		       84.00
+							    --------
+		INSTALLED PRICE				   $ 1428.00
+		Discount             5.0%		       71.40
+							    --------
+
+		SUBTOTAL				   $ 1356.60
+		Tax 					      115.31
+		TOTAL					   $ 1471.91
+
+
+
+
+
+
+
+
+
+		        THE BROOKLYN COLLEGE CARPET STORE
+			    Kevon Franklyn,Owner
+
+				MEASUREMENT
+
+			  Length	 13 feet
+			  Width 	 25 feet
+			  Area  	325 square feet
+
+				  CHARGES
+
+		Description	COST/SQ.FT.		 CHARGE/ROOM
+		Carpet		   15.32		   $ 4979.00
+		Labor		    0.35		      113.75
+							    --------
+		INSTALLED PRICE				   $ 5092.75
+		Discount            20.0%		     1018.55
+							    --------
+
+		SUBTOTAL				   $ 4074.20
+		Tax 					      346.31
+		TOTAL					   $ 4420.51
+
+
+
+
+
+
+
+
+
