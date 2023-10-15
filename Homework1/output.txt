@@ -1,0 +1,40 @@
+When the radius of the torus (R)is 4.0 cm and the radius of the tube (r) is 1.0 cm 
+the volume of a torus is the 78.9 cm squared and its surface area is 157.9 cc 
+The area of the hole is 28.3 cm squared. 
+
+When the radius of the torus (R)is 1.5 cm and the radius of the tube (r) is 0.5 cm 
+the volume of a torus is the 7.4 cm squared and its surface area is 29.6 cc 
+The area of the hole is 3.1 cm squared. 
+
+When the radius of the torus (R)is 4.0 cm and the radius of the tube (r) is 0.5 cm 
+the volume of a torus is the 19.7 cm squared and its surface area is 78.9 cc 
+The area of the hole is 38.5 cm squared. 
+
+When the radius of the torus (R)is 10.0 cm and the radius of the tube (r) is 5.0 cm 
+the volume of a torus is the 4932.9 cm squared and its surface area is 1973.2 cc 
+The area of the hole is 78.5 cm squared. 
+
+When the radius of the torus (R)is 10.0 cm and the radius of the tube (r) is 1.0 cm 
+the volume of a torus is the 197.3 cm squared and its surface area is 394.6 cc 
+The area of the hole is 254.4 cm squared. 
+
+When the radius of the torus (R)is 7.0 cm and the radius of the tube (r) is 3.0 cm 
+the volume of a torus is the 1243.1 cm squared and its surface area is 828.7 cc 
+The area of the hole is 50.3 cm squared. 
+
+When the radius of the torus (R)is 4.0 cm and the radius of the tube (r) is 8.0 cm 
+the volume of a torus is the 5051.3 cm squared and its surface area is 1262.8 cc 
+The area of the hole is 50.3 cm squared. 
+
+When the radius of the torus (R)is 6.0 cm and the radius of the tube (r) is 4.0 cm 
+the volume of a torus is the 1894.2 cm squared and its surface area is 947.1 cc 
+The area of the hole is 12.6 cm squared. 
+
+When the radius of the torus (R)is 2.0 cm and the radius of the tube (r) is 3.0 cm 
+the volume of a torus is the 355.2 cm squared and its surface area is 236.8 cc 
+The area of the hole is 3.1 cm squared. 
+
+When the radius of the torus (R)is 5.5 cm and the radius of the tube (r) is 2.0 cm 
+the volume of a torus is the 434.1 cm squared and its surface area is 434.1 cc 
+The area of the hole is 38.5 cm squared. 
+
